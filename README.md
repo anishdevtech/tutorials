@@ -18,7 +18,7 @@ Welcome to the installation guide repository for my YouTube channel! Below you'l
 
 Termux is a powerful terminal emulator for Android. Follow the steps below to install it on your mobile device.
 
-**Guide Link**: [How to Install Termux on Mobile]()
+**Guide Link**: [How to Install Termux on Mobile](./shorts/Code_On_Your_Phone.md)
 
 ---
 
@@ -26,7 +26,7 @@ Termux is a powerful terminal emulator for Android. Follow the steps below to in
 
 Ngrok is a tool that allows you to expose a local server to the internet. Here's how you can install and configure Ngrok on Termux.
 
-**Guide Link**: [How to Install Ngrok on Termux](https://example.com/your_ngrok_installation_guide_link)
+**Guide Link**: [How to Install Ngrok on Termux](shorts/How_to_install_Ngrok_on_Termux)
 
 ---
 
