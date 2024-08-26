@@ -9,9 +9,6 @@ Welcome to the installation guide repository for my YouTube channel! Below you'l
 
 1. [How to Install Termux on Mobile](#how-to-install-termux-on-mobile)
 2. [How to Install Ngrok on Termux](#how-to-install-ngrok-on-termux)
-3. [Tool/Software 3 Installation Guide](#toolsoftware-3-installation-guide)
-4. [Tool/Software 4 Installation Guide](#toolsoftware-4-installation-guide)
-
 ---
 
 ### 1. How to Install Termux on Mobile
@@ -27,22 +24,6 @@ Termux is a powerful terminal emulator for Android. Follow the steps below to in
 Ngrok is a tool that allows you to expose a local server to the internet. Here's how you can install and configure Ngrok on Termux.
 
 **Guide Link**: [How to Install Ngrok on Termux](shorts/How_to_install_Ngrok_on_Termux)
-
----
-
-### 3. Tool/Software 3 Installation Guide
-
-A brief introduction to what Tool/Software 3 is and why you might want to use it.
-
-**Guide Link**: [Tool/Software 3 Installation Guide](https://example.com/your_tool3_installation_guide_link)
-
----
-
-### 4. Tool/Software 4 Installation Guide
-
-A brief introduction to what Tool/Software 4 is and why you might want to use it.
-
-**Guide Link**: [Tool/Software 4 Installation Guide](https://example.com/your_tool4_installation_guide_link)
 
 ---
 
