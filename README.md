@@ -29,7 +29,7 @@ Ngrok is a tool that allows you to expose a local server to the internet. Here's
 
 ## 📢 Stay Connected
 
-- **Subscribe**: [Your Channel Name](https://www.youtube.com/anish2dev)
+- **Subscribe**: [Anish2dev](https://www.youtube.com/anish2dev)
 
 
 ---
