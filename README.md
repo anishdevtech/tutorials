@@ -23,7 +23,7 @@ Termux is a powerful terminal emulator for Android. Follow the steps below to in
 
 Ngrok is a tool that allows you to expose a local server to the internet. Here's how you can install and configure Ngrok on Termux.
 
-**Guide Link**: [How to Install Ngrok on Termux](shorts/How_to_install_Ngrok_on_Termux)
+**Guide Link**: [How to Install Ngrok on Termux](shorts/How_to_install_Ngrok_on_Termux.md)
 
 ---
 
