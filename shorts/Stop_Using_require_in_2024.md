@@ -5,7 +5,7 @@ Welcome to the guide that accompanies our video on why you should stop using `re
 
 ## 📹 Watch the Video
 Make sure to watch our video for a quick overview:
-- [Stop Using `require()` in 2024! Switch to `import` for Faster, Cleaner Code](#link-to-video)
+- [Stop Using `require()` in 2024! Switch to `import` for Faster, Cleaner Code]([#link-to-video](https://youtube.com/shorts/7tdcVU7Oxhs?si=a5IbI5J1gMNRjs3y))
 
 ## 📜 Why Switch from `require()` to `import`?
 `require()` has been the standard for a long time, but it’s now considered outdated for several reasons:
