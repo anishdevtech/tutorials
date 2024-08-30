@@ -42,7 +42,7 @@ Discover unique and powerful Termux commands that can enhance your terminal expe
 
 `require()` is becoming outdated in 2024, and it's time to upgrade your JavaScript code to use `import` for a faster, cleaner, and more efficient coding experience. Follow this guide to learn why and how to make the switch.
 
-**Guide Link**: [Stop Using `require()` in 2024! Switch to `import` for Faster, Cleaner Code 🚀](./guides/Upgr)
+**Guide Link**: [Stop Using `require()` in 2024! Switch to `import` for Faster, Cleaner Code 🚀](./shorts/Stop_Using_require_in_2024.md)
 
 ---
 
