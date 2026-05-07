@@ -1,4 +1,6 @@
-
+# NOTE
+THE METHODS PROVIDE HERE MIGHT NOT WORK AS THE TUTORIAL IS OUTDATED 
+THANK YOU SO MUCH. 
 # Installation Guides
 
 Welcome to the installation guide repository for my YouTube channel, **Anish2dev**! Below you'll find step-by-step guides on how to install the various tools and software I cover in my videos, as well as how to upgrade your JavaScript code from `require()` to `import`.
